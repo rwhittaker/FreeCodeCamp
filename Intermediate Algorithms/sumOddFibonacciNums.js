@@ -20,4 +20,4 @@ function sumFibs(num) {
     return sum;
   }
   
-  sumFibs(1000);
+  console.log(sumFibs(1000));
