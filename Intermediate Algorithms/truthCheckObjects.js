@@ -2,7 +2,7 @@ function truthCheck(collection, pre) {
 
     // If all values are true, return true, else return false
     for(var i = 0; i < collection.length; i++){
-      if (!!collection[i].[pre]){
+      if (!!collection[i][pre]){
         continue;
       } else {
         return false;
