@@ -15,6 +15,5 @@ function convertToRoman(num) {
     }
     return roman;
     }
-console.log(convertToRoman(16));
-console.log(convertToRoman(2014));
+console.log(convertToRoman(1987));
 
